@@ -197,4 +197,21 @@ My dream company is Google, and my ultimate career goal is to become a software 
 Yes, I possess the necessary skills to secure entry-level roles and internships, and I consider this a significant starting point in my career. It's important to remember that everyone has to begin their journey somewhere.
 
 ## My Contacts
-`Please add your contacts here...`
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Email</th>
+    <th>Twitter</th>
+    <th>LinkedIn</th>
+    <th>GitHub</th>
+    <th>Hugging Face</th>
+  </tr>
+  <tr>
+    <td>Bright Eshun</td>
+    <td><a href="https://twitter.com/bright_eshun_">@bright_eshun_</a></td>
+    <td><a href="eshunbright136@gmail.com">@eshunbright136</a></td>
+    <td><a href="https://www.linkedin.com/in/bright-eshun-9a8a51100/">@brighteshun</a></td>
+    <td><a href="https://github.com/Bright136">@bright136</a></td>
+    <td><a href="https://huggingface.co/bright1">@bright1</a></td>
+  </tr>
+</table>
