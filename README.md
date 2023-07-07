@@ -209,7 +209,7 @@ Yes, I possess the necessary skills to secure entry-level roles and internships,
   <tr>
     <td>Bright Eshun</td>
     <td><a href="https://twitter.com/bright_eshun_">@bright_eshun_</a></td>
-    <td><a href="eshunbright136@gmail.com">@eshunbright136</a></td>
+    <td><a href="mailto:eshunbright136@gmail.com">email me</a></td>
     <td><a href="https://www.linkedin.com/in/bright-eshun-9a8a51100/">@brighteshun</a></td>
     <td><a href="https://github.com/Bright136">@bright136</a></td>
     <td><a href="https://huggingface.co/bright1">@bright1</a></td>
