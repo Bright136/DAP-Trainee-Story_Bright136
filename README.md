@@ -1,9 +1,9 @@
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
+# 📈🧪 Data Analytics Program 🧠📊 : Story of *Bright Ofori Boye Eshun*
+This readme is to share my story and experiences as a trainee in the Azubi Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
 
 ## Let me introduce Myself
+I am Bright Ofori Boye Eshun, petroleum engineering graduAte who has always had a passion for technology. i enrolled in the Azubi traning program because of a testimony a colleague shared with me. I worked in a bank as an ebanking officer unitll i decided to resign and pursue pursue tech fully.
 `Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
 
 ## How would I describe my experience in the data analytics program ? 
