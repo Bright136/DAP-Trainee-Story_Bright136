@@ -38,23 +38,24 @@ My dream company is Google, and my ultimate career goal is to become a software 
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td>Sales Dashboard</td>
+<td>Built a sales dashborad with Power BI from the Awesome Chocolate Cookies Data.</td>
+<td>The project was a peer group assignment. We worked together to combine the given data and build visualizations using guides and resources provided by Azubi.</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>SQL Qureies</td>
+<td>
+This was an individual assignment in the program. We were asked to answer business questions from the Microsoft Shipping Data using SQL queries.</td>
+<td>This project introduced me to the vast possibilities of SQL and demonstrated the immense power of this tool.</td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Ceasar Encryption</td>
+<td> Built the Caesar cipher program with python which is a basic encryption technique that shifts letters in a message by a fixed number of positions in the alphabet.</td>
+<td>This project helped us to combine our skills in python function and list indexing</td>
 </tr>
 
 </tbody>
@@ -136,12 +137,12 @@ My dream company is Google, and my ultimate career goal is to become a software 
 
 <tr>
 <td>Capstsone</td>
+<td>Grocery Store Sales Forecasting </td>
+<td>This was a group project.We explored different regression models to construct a forecasting model. This model was subsequently utilized to create an API, which was then integrated into an application.</td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> <a href="https://bright1-sales-forecasting-ap1-2.hf.space/docs">Deployed API</a> <a href="https://huggingface.co/spaces/KwabenaMufasa/Grocery_Store_Time_Series_Forecasting">Deployed App</a></td>
+<td><a href="">App Repo</a></td>
+<td><a>Project Repo</a> </td>
 </tr>
 
 </tbody>
