@@ -3,7 +3,7 @@ This readme is to share my story and experiences as a trainee in the Azubi Data 
 
 
 ## Let me introduce Myself
-I am XX YY, a petroleum engineering graduate who has always been passionate about technology. I enrolled in the Azubi training program after hearing a colleague's testimonial. Previously, I worked as an e-banking officer in a bank until I made the decision to resign and fully pursue a career in technology. While I initially enrolled in several programs, I had to drop out because they were not suitable for beginners. Fortunately, I applied for the Azubi program and was selected as one of the fortunate trainees. This marked the beginning of my journey to become a Data Scientist.
+I am Bright Ofori Boye Eshun a petroleum engineering graduate who has always been passionate about technology. I enrolled in the Azubi training program after hearing a colleague's testimonial. Previously, I worked as an e-banking officer in a bank until I made the decision to resign and fully pursue a career in technology. While I initially enrolled in several programs, I had to drop out because they were not suitable for beginners. Fortunately, I applied for the Azubi program and was selected as one of the fortunate trainees. This marked the beginning of my journey to become a Data Scientist.
 
 
 ## How would I describe my experience in the data analytics program ?
@@ -66,7 +66,7 @@ My dream company is Google, and my ultimate career goal is to become a software 
 <tbody>
 <tr>
 <td>1</td>
-<td>The Indian Startup Ecosystem Analysis</td>
+<td>Project's Name</td>
 <td>The project describe </td>
 <td>Article</td>
 <td>Deployed App</td>
@@ -76,32 +76,32 @@ My dream company is Google, and my ultimate career goal is to become a software 
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>The Indian Startup Ecosystem Analysis </td>
+<td>This analysis is to give insight to entreprenuers who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing.</td>
+<td><a href='https://medium.com/@brighteshun/an-exploratory-analysis-on-the-indian-startup-ecosystem-2018-2021-d1e759b7737b'>Article</a></td>
+<td>No App was deployed</td>
+<td>No App</td>
+<td><a href='https://github.com/Bright136/Analysis-On-Indian-Startup-Funding-2018-2021'>Project Repo</a></td>
 </tr>
 
 <tr>
 <td>2</td>
+<td>Store-Sales-Forecasting</td>
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App Repo</a> </td>
+<td><a href='https://github.com/Bright136/Store-Sales-Forecasting-'>Project Repo</a></td>
 </tr>
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Customer Churn Prediction Using Machine Learning </td>
+<td>This repository contains code and resources for predicting customer churn using machine learning algorithms. The goal is to identify customers who are likely to churn and take proactive measures to retain them.</td>
+<td><a href="https://medium.com/@brighteshun/telco-customer-churn-prediction-using-machine-learning-d90df26f8cb0">Article</a></td>
+<td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.29.0/gradio.js">Deployed App</a></td>
+<td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App Repo</a></td>
+<td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Dev Repo</a></td>
 </tr>
 
 <tr>
@@ -116,22 +116,22 @@ My dream company is Google, and my ultimate career goal is to become a software 
 
 <tr>
 <td>5</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Sentiment Analysis with Huggingface </td>
+<td> A project showcases how to use Hugging Face Transformers and Gradio for text classification with a pre-trained model</td>
+<td><a href="https://medium.com/@brighteshun/sentiment-analysis-part-1-finetuning-and-hosting-a-text-classification-model-on-huggingface-9d6da6fd856b">Article</a></td>
+<td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.28.0/gradio.js">Deployed App</a></td>
+<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">App Repo</a> </td>
+<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">Project Repo</a></td>
 </tr>
 
 <tr>
 <td>6</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Embedding-a-Machine-Learning-Model-into-a-Web-Application</td>
+<td>This project combines machine learning and FastAPI to develop a powerful and scalable application for predictive analytics and real-time data processing.</td>
+<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Article</a></td>
+<td></td>
+<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">App Repo</a></td>
+<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Project Repo</a></td>
 </tr>
 
 <tr>
