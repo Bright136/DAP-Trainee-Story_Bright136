@@ -130,19 +130,21 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Embedding-a-Machine-Learning-Model-into-a-Web-Application</td>
 <td>This project combines machine learning and FastAPI to develop a powerful and scalable application for predictive analytics and real-time data processing.</td>
 <td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Article</a></td>
-<td></td>
-<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">App' Repo</a></td>
-<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Project's Repo</a></td>
+<td><a href="https://bright1-sepsis-prediction-api.hf.space/docs">Deployed API</a>
+<a href="https://huggingface.co/spaces/bright1/Streamlit-app-Sepsis-Prediction">Deployed App</a>
+</td>
+<td><a href="https://github.com/Bright136/Embedding-a-Machine-Learning-Model-into-a-Web-Application">App' Repo</a></td>
+<td><a href="https://github.com/Bright136/Embedding-a-Machine-Learning-Model-into-a-Web-Application">Project's Repo</a></td>
 </tr>
 
 <tr>
 <td>Capstsone</td>
 <td>Grocery Store Sales Forecasting </td>
 <td>This was a group project.We explored different regression models to construct a forecasting model. This model was subsequently utilized to create an API, which was then integrated into an application.</td>
-<td> </td>
-<td> <a href="https://bright1-sales-forecasting-ap1-2.hf.space/docs">Deployed API</a> <a href="https://huggingface.co/spaces/KwabenaMufasa/Grocery_Store_Time_Series_Forecasting">Deployed App</a></td>
+<td>None</td>
+<td><a href="https://bright1-sales-forecasting-ap1-2.hf.space/docs">Deployed API</a> <a href="https://huggingface.co/spaces/KwabenaMufasa/Grocery_Store_Time_Series_Forecasting">Deployed App</a></td>
 <td><a href="https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian">App's Repo</a></td>
-<td><a href="https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian">Project's Repo</a> </td>
+<td><a href="https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian">Project's Repo</a></td>
 </tr>
 
 </tbody>
