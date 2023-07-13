@@ -26,7 +26,7 @@ In the future, my plans are to become a full stack software engineer and a tech 
 My dream company is Google, and my ultimate career goal is to become a software engineer and eventually progress into a management role within the company. I am highly motivated to work in a dynamic and innovative environment like Google, which fosters creativity and encourages continuous learning. As a software engineer, I aspire to contribute to cutting-edge projects, solve complex problems, and develop impactful solutions. With dedication, hard work, and a focus on personal growth, I hope to realize my dream of joining Google and making a meaningful impact in the field of technology.
 
 ## 1st Phase Projects' Summary Table
-`Please add text here...`
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
@@ -62,13 +62,13 @@ This was an individual assignment in the program. We were asked to answer busine
 </table>
 
 ## Career Accelerator Projects' Summary Table
-`Please add text here...`
+
 <table style="width: 1%;" border="1" cellpadding="1">
 <tbody>
 <tr>
 <td>1</td>
 <td>Project's Name</td>
-<td>The project describe </td>
+<td>The project description </td>
 <td>Article</td>
 <td>Deployed App</td>
 <td>App Repository</td>
@@ -80,19 +80,19 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>The Indian Startup Ecosystem Analysis </td>
 <td>This analysis is to give insight to entreprenuers who are seeking to venture into the Indian start-up ecosystem by highlighting key metrics to consider before venturing.</td>
 <td><a href='https://medium.com/@brighteshun/an-exploratory-analysis-on-the-indian-startup-ecosystem-2018-2021-d1e759b7737b'>Article</a></td>
-<td>No App was deployed</td>
-<td>No App</td>
-<td><a href='https://github.com/Bright136/Analysis-On-Indian-Startup-Funding-2018-2021'>Project Repo</a></td>
+<td>None</td>
+<td>None</td>
+<td><a href='https://github.com/Bright136/Analysis-On-Indian-Startup-Funding-2018-2021'>Project's Repo</a></td>
 </tr>
 
 <tr>
 <td>2</td>
-<td>Store-Sales-Forecasting</td>
+<td>Store-Sales-Forecasting with Machine Learning</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App Repo</a> </td>
-<td><a href='https://github.com/Bright136/Store-Sales-Forecasting-'>Project Repo</a></td>
+<td><a href='https://github.com/Bright136/Store-Sales-Forecasting-'>Project's Repo</a></td>
 </tr>
 
 <tr>
@@ -101,18 +101,18 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>This repository contains code and resources for predicting customer churn using machine learning algorithms. The goal is to identify customers who are likely to churn and take proactive measures to retain them.</td>
 <td><a href="https://medium.com/@brighteshun/telco-customer-churn-prediction-using-machine-learning-d90df26f8cb0">Article</a></td>
 <td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.29.0/gradio.js">Deployed App</a></td>
-<td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App Repo</a></td>
-<td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Dev Repo</a></td>
+<td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App's Repo</a></td>
+<td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Project's Repo</a></td>
 </tr>
 
 <tr>
 <td>4</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Churn App with Gradio/ Sales Forecastign App with Streamlit </td>
+<td>The two app: one for custiner churn and the other for sales forecasting</td>
+<td><a href="https://brighteshun.medium.com/building-a-customer-churn-prediction-app-with-gradio-3b9384f8efcc">Article 1/</a><a href="https://brighteshun.medium.com/building-a-sales-forecasting-app-with-streamlit-438f8953b67b">Article 2</a></td>
+<td><a href="https://brighteshun.medium.com/building-a-customer-churn-prediction-app-with-gradio-3b9384f8efcc">Article 1/</a><a href="https://brighteshun.medium.com/building-a-sales-forecasting-app-with-streamlit-438f8953b67b">Article 2</a></td>
+<td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App repo_1/</a><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App repo_2</a></td>
+<td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Project repo_1/</a><a href="https://github.com/Bright136/Store-Sales-Forecasting-">Project repo_2</a></td>
 </tr>
 
 <tr>
@@ -121,8 +121,8 @@ This was an individual assignment in the program. We were asked to answer busine
 <td> A project showcases how to use Hugging Face Transformers and Gradio for text classification with a pre-trained model</td>
 <td><a href="https://medium.com/@brighteshun/sentiment-analysis-part-1-finetuning-and-hosting-a-text-classification-model-on-huggingface-9d6da6fd856b">Article</a></td>
 <td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.28.0/gradio.js">Deployed App</a></td>
-<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">App Repo</a> </td>
-<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">Project Repo</a></td>
+<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">App's Repo</a> </td>
+<td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">Project's Repo</a></td>
 </tr>
 
 <tr>
@@ -131,8 +131,8 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>This project combines machine learning and FastAPI to develop a powerful and scalable application for predictive analytics and real-time data processing.</td>
 <td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Article</a></td>
 <td></td>
-<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">App Repo</a></td>
-<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Project Repo</a></td>
+<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">App' Repo</a></td>
+<td><a href="https://medium.com/@brighteshun/sepsis-prediction-in-patients-insights-from-machine-learning-and-clinical-data-e7ed1ff750c1">Project's Repo</a></td>
 </tr>
 
 <tr>
@@ -141,8 +141,8 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>This was a group project.We explored different regression models to construct a forecasting model. This model was subsequently utilized to create an API, which was then integrated into an application.</td>
 <td> </td>
 <td> <a href="https://bright1-sales-forecasting-ap1-2.hf.space/docs">Deployed API</a> <a href="https://huggingface.co/spaces/KwabenaMufasa/Grocery_Store_Time_Series_Forecasting">Deployed App</a></td>
-<td><a href="">App Repo</a></td>
-<td><a>Project Repo</a> </td>
+<td><a href="https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian">App's Repo</a></td>
+<td><a href="https://github.com/kwasiasomani/Grocery-Store-Forecasting-Challenge-For-Azubian">Project's Repo</a> </td>
 </tr>
 
 </tbody>
