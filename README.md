@@ -100,7 +100,7 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Customer Churn Prediction Using Machine Learning </td>
 <td>This repository contains code and resources for predicting customer churn using machine learning algorithms. The goal is to identify customers who are likely to churn and take proactive measures to retain them.</td>
 <td><a href="https://medium.com/@brighteshun/telco-customer-churn-prediction-using-machine-learning-d90df26f8cb0">Article</a></td>
-<td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.29.0/gradio.js">Deployed App</a></td>
+<td><a href="https://bright1-customer-churn-app.hf.space">Deployed App</a></td>
 <td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App's Repo</a></td>
 <td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Project's Repo</a></td>
 </tr>
