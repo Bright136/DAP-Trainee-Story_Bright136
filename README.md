@@ -88,9 +88,9 @@ This was an individual assignment in the program. We were asked to answer busine
 <tr>
 <td>2</td>
 <td>Store-Sales-Forecasting with Machine Learning</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>This project aims to predict sales for a retail company using machine learning models. The objective is to build, train, evaluate, and compare different models to identify the most accurate predictor of sales.</td>
+<td>None</td>
+<td>None</td>
 <td><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App Repo</a> </td>
 <td><a href='https://github.com/Bright136/Store-Sales-Forecasting-'>Project's Repo</a></td>
 </tr>
@@ -110,7 +110,7 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Churn App with Gradio/ Sales Forecastign App with Streamlit </td>
 <td>The two app: one for custiner churn and the other for sales forecasting</td>
 <td><a href="https://brighteshun.medium.com/building-a-customer-churn-prediction-app-with-gradio-3b9384f8efcc">Article 1/</a><a href="https://brighteshun.medium.com/building-a-sales-forecasting-app-with-streamlit-438f8953b67b">Article 2</a></td>
-<td><a href="https://brighteshun.medium.com/building-a-customer-churn-prediction-app-with-gradio-3b9384f8efcc">Article 1/</a><a href="https://brighteshun.medium.com/building-a-sales-forecasting-app-with-streamlit-438f8953b67b">Article 2</a></td>
+<td><a href="https://bright1-customer-churn-app.hf.space/">Deployed App 1/</a><a href="">Deployed App 2</a></td>
 <td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App repo_1/</a><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App repo_2</a></td>
 <td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Project repo_1/</a><a href="https://github.com/Bright136/Store-Sales-Forecasting-">Project repo_2</a></td>
 </tr>
@@ -120,7 +120,7 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Sentiment Analysis with Huggingface </td>
 <td> A project showcases how to use Hugging Face Transformers and Gradio for text classification with a pre-trained model</td>
 <td><a href="https://medium.com/@brighteshun/sentiment-analysis-part-1-finetuning-and-hosting-a-text-classification-model-on-huggingface-9d6da6fd856b">Article</a></td>
-<td><a href="https://gradio.s3-us-west-2.amazonaws.com/3.28.0/gradio.js">Deployed App</a></td>
+<td><a href="https://bright1-sentiment-analysis-app-gradio.hf.space">Deployed App</a></td>
 <td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">App's Repo</a> </td>
 <td><a href="https://github.com/Bright136/Natural-Language-Processing-Project">Project's Repo</a></td>
 </tr>
