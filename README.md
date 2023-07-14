@@ -110,7 +110,7 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Churn App with Gradio/ Sales Forecastign App with Streamlit </td>
 <td>The two app: one for custiner churn and the other for sales forecasting</td>
 <td><a href="https://brighteshun.medium.com/building-a-customer-churn-prediction-app-with-gradio-3b9384f8efcc">Article 1/</a><a href="https://brighteshun.medium.com/building-a-sales-forecasting-app-with-streamlit-438f8953b67b">Article 2</a></td>
-<td><a href="https://bright1-customer-churn-app.hf.space/">Deployed Churn App/</a><a href="<a href='https://bright1-store-sales-forecasting-app-streamlit-new.hf.space/'>Deployed app</a>">Deployed Sales App</a></td>
+<td><a href="https://bright1-customer-churn-app.hf.space/">Deployed Churn App/</a><a href="a href='https://bright1-store-sales-forecasting-app-streamlit-new.hf.space/">Deployed Sales App </a></td>
 <td><a href="https://github.com/Bright136/Customer-Churn-Prediction-App-with-Gradio">App repo_1/</a><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App repo_2</a></td>
 <td><a href="https://github.com/Bright136/Telco-Customer-Churn-Prediction">Project repo_1/</a><a href="https://github.com/Bright136/Store-Sales-Forecasting-">Project repo_2</a></td>
 </tr>
