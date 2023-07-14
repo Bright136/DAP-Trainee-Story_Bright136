@@ -90,7 +90,7 @@ This was an individual assignment in the program. We were asked to answer busine
 <td>Store-Sales-Forecasting with Machine Learning</td>
 <td>This project aims to predict sales for a retail company using machine learning models. The objective is to build, train, evaluate, and compare different models to identify the most accurate predictor of sales.</td>
 <td>None</td>
-<td>None</td>
+<td><a href='https://bright1-store-sales-forecasting-app-streamlit-new.hf.space/'>Deployed app</a></td>
 <td><a href="https://github.com/Bright136/Sales-Forecasting-App-with-Streamlit-new">App Repo</a> </td>
 <td><a href='https://github.com/Bright136/Store-Sales-Forecasting-'>Project's Repo</a></td>
 </tr>
